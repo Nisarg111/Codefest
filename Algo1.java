@@ -7,7 +7,8 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class FileRead {
+public class Algo1
+{
 
     public static void main(String[] args) throws IOException {
        // TODO code application logic here
